@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1", "body": "1 dsfsdf sdfsdf sdfsdf sdfsdf wrewer wrwerer" },
+    { "id": 2, "title": "Post 2", "body": "2 dsfsdf sdfsdf sdfsdf sdfsdf wrewer wrwerer" },
+  ],
+  "reviews": [
+    { "id": 1, "text": "some comment 1", "postId": 1 },
+    { "id": 2, "text": "some comment 2", "postId": 1 },
+    { "id": 3, "text": "eeee 1111", "postId": 2 },
+    { "id": 4, "text": "eeee 2222", "postId": 2 }
+  ],
+}
